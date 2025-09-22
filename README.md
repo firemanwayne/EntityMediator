@@ -1,2 +1,2 @@
 # EntityMediator
-Simple entity to handler mapper that allows code to remain decoupled
+Simple mediator handler that simplifies applications by only needing a single interface to interact with.
